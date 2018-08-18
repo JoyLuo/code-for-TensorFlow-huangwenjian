@@ -1,3 +1,3 @@
 # code-for-TensorFlow-huangwenjian
 
-《TensorFlow 实战》 黄文坚
+code for 《TensorFlow 实战》 黄文坚
